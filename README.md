@@ -12,9 +12,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoPBi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Tech Stack
-`Java` `Spring Boot` `MySQL` `React` `HTML` `CSS` `RestAPI` `JavaScript` `Git` 
 
-## 🛠 Tech Stack
+### Backend
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=gitea" /> <img src="https://simpleicons.org/icons/notion.svg" height='20'/> Notion 

@@ -33,8 +33,8 @@
  </p>
 
 <h4 align = "center">Tools</h4>
- <p align = "center">
-<img src ="https://img.shields.io/badge/Git-F05032?style = flat - square && logo=gitea" /> Notion 
+<p align = "center">
+<img src ="https://img.shields.io/badge/Git-F05032?style = flat - square && logo=gitea" />
  </p>
 
 <h4 align = "center">Database </h4>

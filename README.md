@@ -2,8 +2,6 @@
 
 👋 안녕하세요! 저는 SeoPBi입니다.
 
-- 🌱 현재 [언어 또는 기술]를 배우고 있습니다.
-- 👯 저는 [프로젝트 또는 팀]에서 함께 일하길 원합니다.
 - 💬 나에게 물어보고 싶은 것이 있다면 언제든지 연락주세요!
 - 📫 [이메일 주소]
 
@@ -13,14 +11,26 @@
 
 ## 🛠 Tech Stack
 
+<p align="center">
+
 ### Backend
+<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot"/>
+</p>
 
 ### Frontend
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
 ### Database
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=F29111"/>
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-00000F?style = flat - square & logo = mysql & logoColor = F29111 "/>
+</p>
 
 ### Tools
-<img src="https://simpleicons.org/icons/git.svg" height='20'/> Git 
+<p align =" center ">
+<img src =" https : //simpleicons.org/icons/git.svg " height ='20'/> Git  < img   src =" https : //simpleicons.org/icons/notion.svg" height='20'/> Notion 
+</p>
+
+</p>

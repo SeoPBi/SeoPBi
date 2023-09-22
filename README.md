@@ -7,8 +7,6 @@
 - 💬 나에게 물어보고 싶은 것이 있다면 언제든지 연락주세요!
 - 📫 이메일 주소: [이메일 주소]
 
-![SeoPBi's github stats](https://github-readme-stats.vercel.app/api?username=SeoPBi&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoPBi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Tech Stack

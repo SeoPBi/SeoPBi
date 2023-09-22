@@ -27,12 +27,12 @@
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=flat-square&&logo=java&&logoColor=white"/> <img src ="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&&logo=spring-boot"/>
  </ p >
 
-<h4  align  =" center ">Frontend </ h4 >
+<h4 align = "center">Frontend </h4>
  < p   align  =" center ">
 <img src ="https://img.shields.io/badge/React-20232A?style = flat - square && logo = react && logoColor = %2361DAFB "/> 
  </ p >
 
-<h4   align  =" center ">Tools </ h4 >
+<h4 align = "center">Tools</h4>
  < p   align  =" center ">
 <img src ="https://img.shields.io/badge/Git-F05032?style = flat - square && logo=gitea" /> Notion 
  </ p >

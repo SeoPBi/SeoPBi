@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoPBi&layout=compact"/>
+</p>
+
+<p align="center">
 👋 안녕하세요! 저는 SeoPBi입니다.
 </p>
 
@@ -14,11 +18,6 @@
 - 💬 나에게 물어보고 싶은 것이 있다면 언제든지 연락주세요!<br/>
 - 📫 이메일 주소: [이메일 주소]
 </p>
-
-<p align="center">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoPBi&layout=compact"/>
-</p>
-
 
 <h3 align = "center">🛠 Tech Stack </h3>
 

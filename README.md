@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoPBi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![SeoPBi's github stats](https://github-readme-stats.vercel.app/api?username=SeoPBi&show_icons=true&count_private=true)
+
 ## 🛠 Tech Stack
 
 ### Backend

@@ -19,24 +19,31 @@
 - 📫 이메일 주소: [이메일 주소]
 </p>
 
+
 <h3 align = "center">🛠 Tech Stack </h3>
 
 <h4 align = "center">Backend </h4>
 <p align = "center"> 
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=flat-square&&logo=java&&logoColor=white"/> <img src ="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&&logo=spring-boot"/>
- </p>
+ <img src = "https://img.shields.io/badge/Java-ED8B00?style=flat-square&&logo=java&&logoColor=white"/> 
+ <img src ="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&&logo=spring-boot"/> 
+ <img src ="https://img.shields.io/badge/SpringBoot3-6DB33F?style=flat-square&&logo=spring-boot"/> 
+ <img src ="https://img.shields.io/badge/MyBatis-%23EA4335.svg?style=sociall-square&&logo=mybatis"/>
+</p>
 
-<h4 align = "center">Frontend </h4>
-<p align = "center">
-<img src ="https://img.shields.io/badge/React-20232A?style = flat - square && logo = react && logoColor = %2361DAFB "/> 
- </p>
+<h4 align ="center">Frontend</h4>
+<p align ="center">
+ <img src = "https : //img.shields.io/badge/React-20232A?style = flat - square && logo = react && logoColor = %2361DAFB "/>
+ <img src = "https : //img.shields.io/badge/Javascript-F7DF1E?style = flat - square && logo = javascript "&logoColor" = black"/> 
+ <img src = "https : //img.shields.io/badge/HTML5-E34F26?style = flat-square "&logo"= html5 "&logoColor"= white"/>
+ <img src = "https : //img.shields.io/badge/CSS3-1572B6?style=flat-square "&logo" = css3 "&logoColor"= white"/>
+</p>
 
 <h4 align = "center">Tools</h4>
 <p align = "center">
-<img src ="https://img.shields.io/badge/Git-F05032?style = flat - square && logo=gitea" />
- </p>
+ <img src ="https://img.shields.io/badge/Git-F05032?style = flat - square && logo=gitea" /> Notion 
+</p>
 
-<h4 align = "center">Database </h4>
- <p align = "center">
-<img src ="https://img.shields.io/badge/MySQL-00000F?style = flat - square && logo=mysql && logoColor = white "/>
- </p>
+<h4 align = "center">Database</h4>
+<p align = "center">
+ <img src ="https://img.shields.io/badge/MySQL-00000F?style = flat - square && logo=mysql && logoColor = white "/>
+</p>

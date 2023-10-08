@@ -43,6 +43,6 @@
 </p>
 
 <h4>Database</h4>
-<p align="center">
+<p>
  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&&logo=mysql&&logoColor=white"/>
 </p>

@@ -39,7 +39,7 @@
 
 <h4>Tools</h4>
 <p>
- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&&logo=gitea"/> 
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&&logo=gitea"/> 
 </p>
 
 <h4>Database</h4>

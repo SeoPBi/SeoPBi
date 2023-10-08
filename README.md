@@ -14,10 +14,9 @@
 👋 안녕하세요! 저는 SeoPBi입니다.
 </p>
 
-<p align="center">
+
 - 💬 나에게 물어보고 싶은 것이 있다면 언제든지 연락주세요!<br/>
 - 📫 이메일 주소: [sinh8492@naver.com]
-</p>
 
 
 <h3 align = "center">🛠 Tech Stack </h3>

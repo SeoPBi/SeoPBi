@@ -44,5 +44,5 @@
 
 <h4>Database</h4>
 <p>
- <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&&logo=mysql&&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&&logo=MySql&&logoColor=white"/>
 </p>

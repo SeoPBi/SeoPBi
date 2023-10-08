@@ -43,6 +43,8 @@
 <h4>Tools</h4>
 <p>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&&logo=GitHub"/> 
+ <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&&logo=Intellij IDEA"/> 
+
 </p>
 
 <h4>Database</h4>

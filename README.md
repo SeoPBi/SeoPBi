@@ -24,7 +24,7 @@
 
 <h4 align="center">Backend </h4>
 <p align="center"> 
- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
  <img src="https://img.shields.io/badge/MyBatis-%23EA4335.svg?style=sociall-square&logo=mybatis"/>
 </p>

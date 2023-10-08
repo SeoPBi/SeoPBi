@@ -10,6 +10,8 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoPBi&layout=compact"/>
 </p>
 
+</br>
+
 <p>
 👋 안녕하세요! 저는 SeoPBi입니다.
 </p>

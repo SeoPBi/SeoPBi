@@ -42,7 +42,7 @@
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&&logo=gitea"/> 
 </p>
 
-<h4 align="center">Database</h4>
+<h4>Database</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&&logo=mysql&&logoColor=white"/>
 </p>

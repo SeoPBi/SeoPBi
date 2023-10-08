@@ -25,7 +25,7 @@
 <h4 align="center">Backend </h4>
 <p align="center"> 
  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> 
- <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Boot-3776AB?style=flat&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot3-6DB33F?style=flat-square&logo=spring-boot"/>
  <img src="https://img.shields.io/badge/MyBatis-%23EA4335.svg?style=sociall-square&logo=mybatis"/>
 </p>

@@ -54,5 +54,5 @@
 
 <h4>Server</h4>
 <p>
- <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&&logo=Naver&&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&&logo=Naver&&logoColor=white"/>
 </p>

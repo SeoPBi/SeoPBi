@@ -49,3 +49,8 @@
 <p>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&&logo=MySql&&logoColor=white"/>
 </p>
+
+<h4>Server</h4>
+<p>
+ <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&&logo=Naver Cloud&&logoColor=white"/>
+</p>

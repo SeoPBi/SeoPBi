@@ -26,6 +26,7 @@
 
 <h4>Backend</h4>
 <p> 
+ <img src="https://img.shields.io/badge/MSSQL-007396?flat-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/java-007396?flat-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
  <img src="https://img.shields.io/badge/MyBatis-%23EA4335.svg?style=sociall-square&logo=mybatis"/>
@@ -34,6 +35,7 @@
 
 <h4>Frontend</h4>
 <p>
+ <img src="https://img.shields.io/badge/Winform-20232A?style=flat-square&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -42,6 +44,7 @@
 
 <h4>Tools</h4>
 <p>
+ <img src="https://img.shields.io/badge/Visual Studio 2022-007ACC?style=flat-square&&logo=Visual Studio Code"/> 
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&&logo=Notion"/> 
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&&logo=GitHub"/> 
  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&&logo=Intellij IDEA"/> 
